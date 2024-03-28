@@ -1,0 +1,7 @@
+{
+  "name": "yangapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
