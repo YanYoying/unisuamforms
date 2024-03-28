@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
-
-  constructor() {}
-
+  meuNome: string = "Yan";
+  codigoTurma: string = "ADS0301N";
+  fotoUrl: string = "D:\avform\yangapp\src\assets\imgs";
 }
