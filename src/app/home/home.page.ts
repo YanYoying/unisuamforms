@@ -6,7 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
-
-  constructor() {}
-
+  meuNome: string = "Yan";
+  matricula: string ="19200450";
+  codigoTurma: string = "ADS0301N";
+  fotoUrl: string = "././assets/imgs/yang.jpg";
 }
